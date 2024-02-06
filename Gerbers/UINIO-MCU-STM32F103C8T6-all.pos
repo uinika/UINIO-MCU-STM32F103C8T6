@@ -1,4 +1,4 @@
-### Footprint positions - created on Tue Feb  6 11:27:49 2024 ###
+### Footprint positions - created on Wed Feb  7 01:01:25 2024 ###
 ### Printed by KiCad version 7.0.10
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -8,20 +8,21 @@ J2        Conn_01x24_Pin    PinHeader_1x24_P2.54mm_Vertical       1.9991   -18.9
 C1        0.1uF             C_0402_1005Metric                    45.7100    -6.5771  180.0000  top
 C2        1uF               C_0402_1005Metric                     9.4291   -13.9921  -90.0000  top
 C3        0.1uF             C_0402_1005Metric                    23.1791   -10.1321    0.0000  top
-C4        0.1uF             C_0402_1005Metric                    29.3491    -4.1721  180.0000  top
+C4        0.1uF             C_0402_1005Metric                    29.3400    -4.3600  180.0000  top
 C5        1uF               C_0402_1005Metric                    14.2300   -13.9921   90.0000  top
-C6        0.1uF             C_0402_1005Metric                    29.3391   -16.1521    0.0000  top
+C6        0.1uF             C_0402_1005Metric                    28.4400   -16.2300    0.0000  top
 C7        0.1uF             C_0402_1005Metric                    45.7100   -13.7271  180.0000  top
 C8        22pF              C_0402_1005Metric                    40.8491   -10.3421  180.0000  top
 C9        0.1uF             C_0402_1005Metric                    20.2100    -6.3800   90.0000  top
 C10       10pF              C_0402_1005Metric                    38.7191   -14.5421    0.0000  top
 C11       10pF              C_0402_1005Metric                    38.7191   -11.9721    0.0000  top
 C12       22pF              C_0402_1005Metric                    40.8491    -6.0221  180.0000  top
+C13       0.1uF             C_0402_1005Metric                    30.2609   -16.2300  180.0000  top
 D1        LED_Red           LED_0603_1608Metric                  11.5391    -5.4900    0.0000  top
-HOLE**    Hole-1mm          Hole-1mm                             -0.9209    -2.1900  180.0000  top
-HOLE**    Hole-1mm          Hole-1mm                             -0.9700   -18.1300  180.0000  top
-HOLE**    Hole-1mm          Hole-1mm                             63.3391    -2.1900  180.0000  top
 HOLE**    Hole-1mm          Hole-1mm                             63.2900   -18.1300  180.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             63.3391    -2.1900  180.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             -0.9700   -18.1300  180.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             -0.9209    -2.1900  180.0000  top
 J3        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical      63.9600    -6.3671    0.0000  top
 L1        1KΩ_100Mhz       L_0603_1608Metric                    45.7100   -10.1771  180.0000  top
 R1        2K                R_0402_1005Metric                    11.8191    -6.9045  180.0000  top

@@ -1,5 +1,5 @@
-### Footprint positions - created on Wed Feb  7 01:01:25 2024 ###
-### Printed by KiCad version 7.0.10
+### Footprint positions - created on Fri Apr 12 15:17:54 2024 ###
+### Printed by KiCad version 7.0.11
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                 PosX       PosY       Rot  Side
@@ -19,10 +19,10 @@ C11       10pF              C_0402_1005Metric                    38.7191   -11.9
 C12       22pF              C_0402_1005Metric                    40.8491    -6.0221  180.0000  top
 C13       0.1uF             C_0402_1005Metric                    30.2609   -16.2300  180.0000  top
 D1        LED_Red           LED_0603_1608Metric                  11.5391    -5.4900    0.0000  top
-HOLE**    Hole-1mm          Hole-1mm                             63.2900   -18.1300  180.0000  top
-HOLE**    Hole-1mm          Hole-1mm                             63.3391    -2.1900  180.0000  top
 HOLE**    Hole-1mm          Hole-1mm                             -0.9700   -18.1300  180.0000  top
 HOLE**    Hole-1mm          Hole-1mm                             -0.9209    -2.1900  180.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             63.3391    -2.1900  180.0000  top
+HOLE**    Hole-1mm          Hole-1mm                             63.2900   -18.1300  180.0000  top
 J3        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical      63.9600    -6.3671    0.0000  top
 L1        1KΩ_100Mhz       L_0603_1608Metric                    45.7100   -10.1771  180.0000  top
 R1        2K                R_0402_1005Metric                    11.8191    -6.9045  180.0000  top

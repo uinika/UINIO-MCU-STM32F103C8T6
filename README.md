@@ -26,7 +26,7 @@
 
 ## 参考技术文档
 
-[UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-MCU-GD32F103CBT6 开源项目提供了如下一系列技术参考资料：
+[UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-MCU-STM32F103C8T6 开源项目提供了如下一系列技术参考资料：
 
 1. [《意法半导体 STM32F103C8T6 标准库典型实例》](http://uinio.com/Embedded/STM32F103/)
 2. [《ARM 调试工具 UINIO-DAP-Link 应用详解》](http://uinio.com/Project/UINIO-DAP-Link/)
